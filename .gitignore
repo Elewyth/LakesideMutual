@@ -2,3 +2,5 @@
 
 # Ignore the H2 databases
 *.mv.db
+_cacache/
+_logs/
