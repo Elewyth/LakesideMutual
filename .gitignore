@@ -4,3 +4,5 @@
 *.mv.db
 _cacache/
 _logs/
+index-v5/
+anonymous-cli-metrics.json
